@@ -122,7 +122,7 @@ if (20< 10) {
 }else {
     console.log("모든 if문의 조건이 거짓입니다.");
 }
-
+ 
 let animal = 'Dog';
 
 switch (animal) {
